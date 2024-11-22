@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(0,0,0,0.8);
+}
+
+h1{
+    text-align :center;
+    text-transform: uppercase;
+}
+
+.countainer{
+    width: 460px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    align-content: center;
+    background-color: black;
+    border-radius: 5%;
+    border:  5px solid rgb(110, 107, 107);
+    padding: 40px 50px;
+}
+
+.output-countainer{
+    display: flex;
+    justify-content: space-around;
+    color:  rgb(110, 107, 107);
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.btn{
+    margin: 10px;
+    background-color: rgb(110, 107, 107);
+    border: none;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.buttons{
+    margin-top: 40px ;
+}
+
+
+
+
+
+
+
